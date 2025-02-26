@@ -1,7 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
-這是 Frontend Mentor 食譜頁面挑戰的解決方案。
 
 ## Table of contents 目錄
 
@@ -22,10 +21,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links 連結
 
-- Solution URL 解決方案網址: [Ahttps://github.com/ylin320/Recipe-page](https://github.com/ylin320/Recipe-page)
-- Live Site URL 網站網址: [https://ylin320.github.io/Recipe-page/](https://ylin320.github.io/Recipe-page/)
+- Solution URL: [Ahttps://github.com/ylin320/Recipe-page](https://github.com/ylin320/Recipe-page)
+- Live Site URL: [https://ylin320.github.io/Recipe-page/](https://ylin320.github.io/Recipe-page/)
 
-## My process 我的過程
+## My process 過程
 
 ### Built with 使用技術
 
@@ -38,7 +37,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 During this project, I encountered several significant challenges and learned their solutions:
 
-1. **List Item Text Wrapping (列表項目的文字換行對齊問題)**
+1. **List Item Text Wrapping**
    Solved the challenge of aligning wrapped text with the first line of text, rather than starting below the bullet point.
    解決列表項目文字換行時需要與第一行文字對齊，而不是從 bullet point 下方開始的問題。
 
@@ -59,7 +58,7 @@ li::before {
 This solution uses `display: table` and `display: table-cell` to ensure proper text alignment on wrapping, which was a valuable learning experience.
 這個解決方案使用 `display: table` 和 `display: table-cell` 來確保文字換行時的對齊，是一個很好的學習經驗。
 
-2. **Nutrition Table Layout (營養表格的布局設計)**
+2. **Nutrition Table Layout**
    Learned how to create a well-structured table layout, including even distribution of labels and values, and the addition of separating lines.
    學習如何建立一個結構良好的表格布局，包括標籤和數值的均勻分配以及分隔線的添加。
 
@@ -82,7 +81,7 @@ This solution uses `display: table` and `display: table-cell` to ensure proper t
 This experience deepened my understanding of table layouts and border applications.
 這個經驗讓我更深入理解了表格布局和邊框的應用。
 
-3. **Responsive Design Implementation (響應式設計的實作)**
+3. **Responsive Design Implementation**
    First time implementing media queries, learning how to adjust layouts for different screen sizes.
    第一次實作 media queries，學習如何根據不同螢幕尺寸調整版面配置。
 
@@ -110,7 +109,6 @@ This experience helped me understand the basic principles and implementation of 
 ### Continued development 持續發展
 
 Based on this learning experience, I plan to focus on the following areas in future projects:
-基於這次的學習經驗，我希望在未來能夠：
 
 1. Explore more advanced techniques for list styling
    深入研究更多關於清單樣式的進階技巧

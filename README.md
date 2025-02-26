@@ -38,6 +38,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 During this project, I encountered several significant challenges and learned their solutions:
 
 1. **List Item Text Wrapping**
+
    Solved the challenge of aligning wrapped text with the first line of text, rather than starting below the bullet point.
    解決列表項目文字換行時需要與第一行文字對齊，而不是從 bullet point 下方開始的問題。
 
@@ -59,6 +60,7 @@ This solution uses `display: table` and `display: table-cell` to ensure proper t
 這個解決方案使用 `display: table` 和 `display: table-cell` 來確保文字換行時的對齊，是一個很好的學習經驗。
 
 2. **Nutrition Table Layout**
+
    Learned how to create a well-structured table layout, including even distribution of labels and values, and the addition of separating lines.
    學習如何建立一個結構良好的表格布局，包括標籤和數值的均勻分配以及分隔線的添加。
 
@@ -82,6 +84,7 @@ This experience deepened my understanding of table layouts and border applicatio
 這個經驗讓我更深入理解了表格布局和邊框的應用。
 
 3. **Responsive Design Implementation**
+
    First time implementing media queries, learning how to adjust layouts for different screen sizes.
    第一次實作 media queries，學習如何根據不同螢幕尺寸調整版面配置。
 

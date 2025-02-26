@@ -5,16 +5,16 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Table of contents 目錄
 
-- [Overview 總覽](#overview)
-  - [Screenshot 截圖](#screenshot)
-  - [Links 連結](#links)
-- [My process 我的過程](#my-process)
-  - [Built with 使用技術](#built-with)
-  - [What I learned 學到的東西](#what-i-learned)
-  - [Continued development 持續發展](#continued-development)
-- [Author 作者](#author)
+- [Overview 總覽](#overview-總覽)
+  - [Screenshot 截圖](#screenshot-截圖)
+  - [Links 連結](#links-連結)
+- [My process 我的過程](#my-process-我的過程)
+  - [Built with 使用技術](#built-with-使用技術)
+  - [What I learned 學到的東西](#what-i-learned-學到的東西)
+  - [Continued development 持續發展](#continued-development-持續發展)
+- [Author 作者](#author-作者)
 
-## Overview 總覽
+## Overview 概覽
 
 ### Screenshot 截圖
 
